@@ -5,6 +5,7 @@
 ## Overview 
 
 In this lab, we're going to work with strings. Strings in JavaScript are wrapped in single or double quotes, or in back ticks.
+Hello Kuran
 
 ## Objectives
 
